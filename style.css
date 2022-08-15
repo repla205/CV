@@ -1,0 +1,18 @@
+.Pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 45%;
+    float: left;
+    display: block;
+    margin-right: 15px;
+
+}
+.About{
+    display: block;
+}
+.books{
+    display: block;
+}
+th{
+text-align: center ;
+font-weight: bold;}
